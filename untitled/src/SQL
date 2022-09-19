@@ -1,0 +1,24 @@
+-- CREATE TABLE customer (id serial PRIMARY KEY, first_name CHAR(40),last_name CHAR(40),
+--                         email CHAR(50),phone_number CHAR(12));
+--     INSERT INTO customer(first_name,last_name,email,phone_number)
+--     VALUES('Kaeden', 'Bradshaw', 'kaeden@gmail.com','8018888988'),
+--           ('sally', 'henderson','hendyson@gmail.com','8018838373');
+
+--     SELECT * FROM customer
+
+
+-- CREATE  TABLE products (id serial PRIMARY KEY, brand CHAR(30), model INT, description CHAR(100),price INT,quantity INT);
+--     INSERT  INTO products (brand, model, description, price, quantity)
+--     VALUES  ('mtn',1,'cool bike', 20.00,10),
+--           ('rugged',3,'slick bike', 25.00,9);
+
+-- CREATE TABLE transactions (id serial PRIMARY KEY, customer_id INT, product_id INT, transcation_date CHAR(100));
+--     INSERT INTO transactions (customer_id, product_id,transcation_date )
+--     VALUES(1,1,'today'),
+--             (2,1,'yesterday'),
+--             (2,2,'yesterday');
+
+-- SELECT * FROM  customer;
+-- SELECT * FROM   transactions;
+-- SELECT * FROM   products;
+

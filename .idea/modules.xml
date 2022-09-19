@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cupcakes.iml" filepath="$PROJECT_DIR$/.idea/Cupcakes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/LowerBounde/LowerBounde.iml" filepath="$PROJECT_DIR$/Generics/LowerBounde/LowerBounde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order/Order.iml" filepath="$PROJECT_DIR$/Order/Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/shapes/shapes.iml" filepath="$PROJECT_DIR$/Generics/shapes/shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/untitled/untitled1.iml" filepath="$PROJECT_DIR$/Generics/untitled/untitled1.iml" />
+    </modules>
+  </component>
+</project>
